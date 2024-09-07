@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on python
-- 🌱 I’m currently learning how to suvive my Python class
+- 🌱 I’m currently learning how to survive my Python class
 
 -->
