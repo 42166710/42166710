@@ -1,11 +1,21 @@
-### Hi there 👋
+# 👋 Hi, I'm Yingkun!
 
-<!--
-**42166710/42166710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of the internet! 🌍  
+I’m a second-year student studying at Columbia SIPA.
 
-Here are some ideas to get you started:
+## 🌱 What I’m learning
 
-- 🔭 I’m currently working on python
-- 🌱 I’m currently learning how to survive my Python class
+- I am doing Climate, Energy & Environment concentration.
+- Enhancing my skills in Python and financial modeling.
+- Always curious about Lithium-ion batteries and large-scale storage, and how the rise of AI impacts energy supply.
 
--->
+## ⚡ Fun fact
+
+- I have a cute white Bichon Frise back home. 🐶
+- I'm a certified scuba diver and love exploring the underwater world. 🌊
+- Swimming is one of my favorite hobbies – I practically live in the water! 🏊‍♂️
+  
+---
+
+Thanks for stopping by! Feel free to check out my work and drop me a message.  
+Let’s make something awesome together! 🚀
